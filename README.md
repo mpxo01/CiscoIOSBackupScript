@@ -4,7 +4,7 @@ To centralize backups from cisco IOS devices with python script
 IMPORTANT!
 
 - First, install **netmiko** module in your python environment
-- Put the script in the desired bacjup storage directory
+- Put the script in the desired backup storage directory
 - Create a "IPs.yml" file in the desired backup storage directory with the list of all IPs of the devices you want to backup
   In the format:
   - "- 192.x.x.x"
