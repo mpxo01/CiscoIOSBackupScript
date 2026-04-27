@@ -16,4 +16,7 @@ IMPORTANT!
 - Then you can see all backups files in the current directory
 - You also can see failed conections with failed IPs in the "errip.yml" file
 
+**Note**
+Windows version, to run on linux edit line 50 and replace "Network_Backups\\" string with "Network_Backups/"
+
 Author: Moises Pujols
