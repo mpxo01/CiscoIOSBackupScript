@@ -18,6 +18,6 @@ IMPORTANT!
 
 **Note**
 
-This is a windows version, to run on linux edit line 50 and replace "Network_Backups\\" string with "Network_Backups/"
+This is a windows version, to run on linux edit line 50 and replace "Network_Backups\\\" string with "Network_Backups/"
 
 **Author:** Moises Pujols
