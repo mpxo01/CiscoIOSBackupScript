@@ -15,3 +15,5 @@ IMPORTANT!
 - Run the script, it will prompt for Cisco IOS devices shared credentials, you can provide it.
 - Then you can see all backups files in the current directory
 - You also can see failed conections with failed IPs in the "errip.yml" file
+
+Author: Moises Pujols
